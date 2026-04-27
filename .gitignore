@@ -1,0 +1,22 @@
+# PHP
+*.log
+*.cache
+
+# Images (optional - remove if you want to commit images)
+# images/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.bak
